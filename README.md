@@ -7,9 +7,9 @@ Glimpse for Rack - A client side Glimpse into whats going on in your server
 Rack Server Module
 =======================================
 
-The Glimpse "theory of operation" is such that server modules (`plugins`) expose
-application, configuration, diagnostic, or environment information. The
-Glimpse Ruby offering is provided as Rack middleware.
+The Glimpse "theory of operation" is that server `modules` or `plugins` expose
+application, configuration, diagnostic, or environment information. This
+project provides Glimpse for any Rack-based framework or application.
 
 
 Installation
